@@ -1,8 +1,27 @@
-# React + Vite
+# 📚 **පොත් මැදුර (Poth Madura) - Book Store Application**  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive book store web application built with **React.js** and **pure CSS**.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 **Features**  
+- 🏠 **Home Page:** Welcoming section with featured books.  
+- 📖 **Shop Page:** Browse book listings with titles, authors, and prices.  
+- ℹ️ **About Page:** Information about the bookstore's mission.  
+- 📬 **Contact Us Page:** Simple inquiry form for users.  
+- 📱 **Fully Responsive:** Works seamlessly on desktops, tablets, and mobile devices.  
+
+---
+
+## 🛠 **Technologies Used**  
+- ⚛️ React.js  
+- 🎨 Pure CSS  
+- 📜 JavaScript  
+
+---
+
+## 🧑‍💻 **How to Run Locally**  
+
+1. **Clone the repository:**  
+   ```bash
+   git clone https://github.com/Denuwan01/Book-Store-App.git
